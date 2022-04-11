@@ -94,7 +94,6 @@ p {
 }
 
 .button:hover {
-    background-color: rgb(255, 86, 170);
     color: #1c1d25;
     font-weight: 600;
 }
